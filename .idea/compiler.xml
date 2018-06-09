@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="springbootribbonconsumerone" />
+        <module name="springbootserverone" />
+        <module name="springcloudeurekaone" />
+        <module name="springcloudeurekatwo" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="springbootribbonconsumer" target="1.6" />
+      <module name="springbootserver" target="1.6" />
+      <module name="springcloudeureka" target="1.6" />
+      <module name="springcloudribbonconsumerone" target="1.6" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
