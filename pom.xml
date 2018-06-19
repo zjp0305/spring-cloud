@@ -21,6 +21,7 @@
         <module>spring-cloud-eureka-two</module>
         <module>spring-cloud-eureka-one</module>
         <module>spring-boot-ribbon-consumer-one</module>
+        <module>spring-api-gateway</module>
     </modules>
 
 
