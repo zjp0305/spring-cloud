@@ -15,6 +15,12 @@
         <version>1.5.9.RELEASE</version>
     </parent>
 
+    <dependencies>
+        <dependency>
+            <groupId>org.slf4j</groupId>
+            <artifactId>slf4j-api</artifactId>
+        </dependency>
+    </dependencies>
     <modules>
         <module>spring-boot-server-two</module>
         <module>spring-boot-server-one</module>
@@ -22,6 +28,7 @@
         <module>spring-cloud-eureka-one</module>
         <module>spring-boot-ribbon-consumer-one</module>
         <module>spring-api-gateway</module>
+        <module>spring-cloud-config</module>
     </modules>
 
 

@@ -10,6 +10,7 @@
         <module name="springapigateway" />
         <module name="springbootribbonconsumerone" />
         <module name="springbootserverone" />
+        <module name="springcloudconfig" />
         <module name="springcloudeurekaone" />
         <module name="springcloudeurekatwo" />
       </profile>
