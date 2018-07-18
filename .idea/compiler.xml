@@ -2,24 +2,18 @@
 <project version="4">
   <component name="CompilerConfiguration">
     <annotationProcessing>
-      <profile default="true" name="Default" enabled="true" />
       <profile name="Maven default annotation processors profile" enabled="true">
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="springapigateway" />
-        <module name="springbootribbonconsumerone" />
-        <module name="springbootserverone" />
-        <module name="springcloudconfig" />
-        <module name="springcloudeurekaone" />
-        <module name="springcloudeurekatwo" />
+        <module name="spring-api-gateway" />
+        <module name="spring-boot-ribbon-consumer-one" />
+        <module name="spring-boot-server-one" />
+        <module name="spring-cloud-config" />
+        <module name="spring-cloud-eureka-one" />
+        <module name="spring-cloud-eureka-two" />
+        <module name="springcloudconfigclient" />
       </profile>
     </annotationProcessing>
-    <bytecodeTargetLevel>
-      <module name="springbootribbonconsumer" target="1.6" />
-      <module name="springbootserver" target="1.6" />
-      <module name="springcloudeureka" target="1.6" />
-      <module name="springcloudribbonconsumerone" target="1.6" />
-    </bytecodeTargetLevel>
   </component>
 </project>
