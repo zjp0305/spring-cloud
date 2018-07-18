@@ -1,0 +1,4 @@
+2018-07-18 21:33:50,803 [INFO] [main] com.config.ConfigApplication [SpringApplication.java : 597] The following profiles are active: dev
+2018-07-18 21:34:03,931 [INFO] [main] com.config.ConfigApplication [StartupInfoLogger.java : 57] Started ConfigApplication in 15.388 seconds (JVM running for 18.643)
+2018-07-18 21:56:30,247 [INFO] [main] com.config.ConfigApplication [SpringApplication.java : 597] The following profiles are active: dev
+2018-07-18 21:56:41,248 [INFO] [main] com.config.ConfigApplication [StartupInfoLogger.java : 57] Started ConfigApplication in 12.68 seconds (JVM running for 13.494)

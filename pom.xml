@@ -29,6 +29,7 @@
         <module>spring-boot-ribbon-consumer-one</module>
         <module>spring-api-gateway</module>
         <module>spring-cloud-config</module>
+        <module>spring-cloud-config-client</module>
     </modules>
 
 
