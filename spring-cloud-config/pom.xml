@@ -15,6 +15,7 @@
         <dependency>
             <groupId>org.springframework.cloud</groupId>
             <artifactId>spring-cloud-starter-config</artifactId>
+            <version>1.4.5.RELEASE</version>
         </dependency>
 
         <dependency>

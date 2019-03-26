@@ -2,6 +2,7 @@
 <project version="4">
   <component name="CompilerConfiguration">
     <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
       <profile name="Maven default annotation processors profile" enabled="true">
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
@@ -10,6 +11,7 @@
         <module name="spring-boot-ribbon-consumer-one" />
         <module name="spring-boot-server-one" />
         <module name="spring-cloud-config" />
+        <module name="spring-cloud-config-client" />
         <module name="spring-cloud-eureka-one" />
         <module name="spring-cloud-eureka-two" />
         <module name="springcloudconfigclient" />
